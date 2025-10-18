@@ -1,0 +1,111 @@
+{
+  "categories": [
+    {
+      "name": "Garland",
+      "products": [
+        {"id":"ID 1","productName":"Views Garland 200","mrp":3000,"discountPrice":1800,"image":"/images/Screenshot 2025-10-16 141209.png"},
+        {"id":"ID 2","productName":"High Voltage Garland","mrp":1950,"discountPrice":1170,"image":"/images/Screenshot 2025-10-16 141319.png"},
+        {"id":"ID 9","productName":"High Voltage Garland Spiderman","mrp":3900,"discountPrice":2340,"image":"/images/Screenshot 2025-10-16 141419.png"}
+      ]
+    },
+    {
+      "name": "Fancy",
+      "products": [
+        {"id":"ID 3","productName":"Manoj Shots Bubly 30","mrp":5000,"discountPrice":3000,"image":"/images/Screenshot 2025-10-16 133926.png"},
+        {"id":"ID 4","productName":"Anil Shots Manpasand 25","mrp":2120,"discountPrice":1272,"image":"images/Screenshot 2025-10-16 132559.png"},
+        {"id":"ID 12","productName":"Anil Dilkhush 50 Shots","mrp":4256,"discountPrice":2553,"image":"/images/image.png"},
+        {"id":"ID 33","productName":"Kit Kat Fancy Shots","mrp":1135,"discountPrice":681,"image":"/images/Screenshot 2025-10-16 133301.png"},
+        {"id":"ID 58","productName":"Anil Mustang Shots","mrp":5220,"discountPrice":3132,"image":"/images/Screenshot 2025-10-16 133114.png"},
+        {"id":"ID 5G","productName":"London Fancy Shots","mrp":3600,"discountPrice":2160,"image":"/images/Screenshot 2025-10-16 134034.png"},
+        {"id":"ID 31","productName":"Anil DJ War","mrp":7704,"discountPrice":4622,"image":"/images/Screenshot 2025-10-16 132822.png"},
+        {"id":"ID 7","productName":"Manoj Fancy Sky Killer","mrp":750,"discountPrice":450,"image":"/images/Screenshot 2025-10-16 134123.png"},
+        {"id":"ID 8","productName":"Anil Gold Dust","mrp":2592,"discountPrice":1037,"image":"/images/Screenshot 2025-10-16 135739.png"},
+        {"id":"ID 10","productName":"Anil Fancy Dhamaka","mrp":7778,"discountPrice":4666,"image":"/images/Screenshot 2025-10-16 135914.png"},
+        {"id":"ID 11","productName":"MORI Mini Fancy Mojito","mrp":1150,"discountPrice":690,"image":"/images/Screenshot 2025-10-16 133827.png"},
+        {"id":"ID 30","productName":"Chandrayan 2","mrp":5000,"discountPrice":2999,"image":"/images/Screenshot 2025-10-16 133648.png"},
+        {"id":"ID 37","productName":"Cracking Rocket","mrp":674,"discountPrice":404,"image":"/images/Screenshot 2025-10-16 134830.png"},
+        {"id":"ID 40","productName":"Rocket Bomb","mrp":716,"discountPrice":429,"image":"/images/Screenshot 2025-10-16 134612.png"},
+        {"id":"ID 61","productName":"Chilli shots","mrp":550,"discountPrice":348,"image":"/images/Screenshot 2025-10-16 140034.png"},
+        {"id":"ID 34","productName":"Soccer Hunter Single Shot","mrp":300,"discountPrice":180,"image":"/images/Screenshot 2025-10-16 135827.png"}
+      ]
+    },
+    {
+      "name": "Mini Fancy",
+      "products": [
+        {"id":"ID 4G","productName":"Angry Bird Shots","mrp":500,"discountPrice":300,"image":"/images/Screenshot 2025-10-16 140313.png"},
+        {"id":"ID 16","productName":"Starvel 90 watts","mrp":800,"discountPrice":480,"image":"/images/Screenshot 2025-10-16 140501.png"},
+        {"id":"ID 55","productName":"Fancy Blaze","mrp":750,"discountPrice":450,"image":"/images/Screenshot 2025-10-16 140632.png"},
+        {"id":"ID 2G","productName":"Jolly Cola","mrp":950,"discountPrice":570,"image":"/images/Screenshot 2025-10-16 140402.png"},
+        {"id":"ID 5","productName":"Money Bank","mrp":600,"discountPrice":360,"image":"/images/Screenshot 2025-10-16 140730.png"},
+        {"id":"ID 38","productName":"Fancy Drone","mrp":1100,"discountPrice":660,"image":"/images/Screenshot 2025-10-16 140931.png"},
+        {"id":"ID 6","productName":"Starvel Fancy Helicopter","mrp":800,"discountPrice":480,"image":"/images/Screenshot 2025-10-16 140820.png"}
+      ]
+    },
+    {
+      "name": "Anar",
+      "products": [
+        {"id":"ID 13","productName":"Poorvika Flowerpot Big","mrp":340,"discountPrice":204,"image":"/images/Screenshot 2025-10-16 141747.png"},
+        {"id":"ID 14","productName":"Tim Tim Matka Anar","mrp":1350,"discountPrice":810,"image":"/images/Screenshot 2025-10-16 141850.png"},
+        {"id":"ID 15","productName":"Supreme Flowerpot","mrp":1350,"discountPrice":810,"image":"/images/Screenshot 2025-10-16 142000.png"},
+        {"id":"ID 1G","productName":"Anil Flowerpots Big","mrp":654,"discountPrice":392,"image":"/images/Screenshot 2025-10-16 142040.png"},
+        {"id":"ID 17","productName":"Supreme flowerpot","mrp":865,"discountPrice":519,"image":"/images/Screenshot 2025-10-16 142201.png"},
+        {"id":"ID 45","productName":"Flowerpot Special","mrp":599,"discountPrice":359,"image":"/images/Screenshot 2025-10-16 142827.png"},
+        {"id":"ID 52","productName":"Anil Red Green Pot","mrp":1058,"discountPrice":634,"image":"/images/Screenshot 2025-10-16 142940.png"},
+        {"id":"ID 56","productName":"Supreme Deluxe Pots","mrp":1365,"discountPrice":819,"image":"/images/Screenshot 2025-10-16 143104.png"},
+        {"id":"ID 57","productName":"Power Pot Sky King","mrp":1200,"discountPrice":720,"image":"/images/Screenshot 2025-10-16 143403.png"},
+        {"id":"ID 60","productName":"Ashoka Power pots","mrp":1615,"discountPrice":969,"image":"/images/Screenshot 2025-10-16 143144.png"},
+        {"id":"ID 18","productName":"Supreme Super Koti","mrp":700,"discountPrice":420,"image":"/images/Screenshot 2025-10-16 142250.png"},
+        {"id":"ID 32","productName":"Anil Jabardast Koti","mrp":2688,"discountPrice":1612,"image":"/images/Screenshot 2025-10-16 142535.png"},
+        {"id":"ID 28","productName":"Anil Raja ki Rani","mrp":1880,"discountPrice":1128,"image":"/images/Screenshot 2025-10-16 142401.png"},
+        {"id":"ID 41","productName":"Zig Zag Anar Shot","mrp":160,"discountPrice":96,"image":"/images/Screenshot 2025-10-16 143227.png"},
+        {"id":"ID 51","productName":"Pogo Mini shot","mrp":600,"discountPrice":360,"image":"/images/Screenshot 2025-10-16 143312.png"}
+      ]
+    },
+    {
+      "name": "Bomb & Ladd",
+      "products": [
+        {"id":"ID 23","productName":"Harry Potter Chimni bomb","mrp":76,"discountPrice":45,"image":"/images/Screenshot 2025-10-16 171706.png"},
+        {"id":"ID 24","productName":"Laxmi Bomb 4''","mrp":88,"discountPrice":52,"image":"/images/Screenshot 2025-10-16 170823.png"},
+        {"id":"ID 25","productName":"Chimni Bomb Poorvika","mrp":40,"discountPrice":24,"image":"/images/Screenshot 2025-10-16 170905.png"},
+        {"id":"ID 39","productName":"Apti Bomb","mrp":null,"discountPrice":null,"image":"/images/Screenshot 2025-10-16 171441.png"},
+        {"id":"ID 47","productName":"Machis Bomb","mrp":null,"discountPrice":null,"image":"/images/Screenshot 2025-10-16 171527.png"},
+        {"id":"ID 48","productName":"Anil Dynamite Bomb","mrp":630,"discountPrice":378,"image":"/images/Screenshot 2025-10-16 171145.png"},
+        {"id":"ID 70","productName":"Laxmi Bomb 3.5''","mrp":40,"discountPrice":24,"image":"/images/Screenshot 2025-10-16 171224.png"},
+        {"id":"ID 71","productName":"Jay Bindra Laxmi Bomb 4''","mrp":74,"discountPrice":44,"image":"/images/Screenshot 2025-10-16 171621.png"},
+        {"id":"ID 72","productName":"Jay Bindra Laxmi Bomb 3.5''","mrp":40,"discountPrice":24,"image":"/images/Screenshot 2025-10-16 171303.png"},
+        {"id":"ID 20","productName":"Deluxe 48 Ladi","mrp":280,"discountPrice":168,"image":"/images/Screenshot 2025-10-16 170732.png"},
+        {"id":"ID 26","productName":"Chorsa Ladi 28","mrp":50,"discountPrice":30,"image":"/images/Screenshot 2025-10-16 170957.png"},
+        {"id":"ID 69","productName":"RGSS Chorsa Ladi 28","mrp":60,"discountPrice":36,"image":"/images/Screenshot 2025-10-16 171105.png"},
+        {"id":"ID 21","productName":"Deluxe 24 Ladi","mrp":120,"discountPrice":72,"image":"/images/Screenshot 2025-10-16 170437.png"},
+        {"id":"ID 22","productName":"Deluxe 20 Ladi","mrp":96,"discountPrice":57,"image":"/images/Screenshot 2025-10-16 170520.png"},
+        {"id":"ID 53","productName":"32 Deluxe Ladi","mrp":160,"discountPrice":96,"image":"/images/Screenshot 2025-10-16 170557.png"},
+        {"id":"ID 54","productName":"28 Deluxe Ladi","mrp":144,"discountPrice":86,"image":"/images/Screenshot 2025-10-16 170655.png"},
+        {"id":"ID 73","productName":"Cracker 2 bar Poorvika","mrp":92,"discountPrice":55,"image":"/images/Screenshot 2025-10-16 171338.png"}
+      ]
+    },
+    {
+      "name": "Chakri",
+      "products": [
+        {"id":"ID 35","productName":"NSV Chakkar Foula","mrp":1850,"discountPrice":1110,"image":"/images/Screenshot 2025-10-16 143913.png"},
+        {"id":"ID 36","productName":"Deluxe Chakkar","mrp":1000,"discountPrice":600,"image":"/images/Screenshot 2025-10-16 144115.png"},
+        {"id":"ID 42","productName":"Anil Chakkar Sp","mrp":475,"discountPrice":285,"image":"/images/Screenshot 2025-10-16 144200.png"},
+        {"id":"ID 43","productName":"Chakkar Big","mrp":440,"discountPrice":264,"image":"/images/Screenshot 2025-10-16 144302.png"},
+        {"id":"ID 62","productName":"Anil Chakkar","mrp":766,"discountPrice":459,"image":"/images/Screenshot 2025-10-16 144436.png"}
+      ]
+    },
+    {
+      "name": "Fuljadi (Sursuri)",
+      "products": [
+        {"id":"ID 46","productName":"Fancy Laser Electric Sursuri","mrp":112,"discountPrice":67,"image":"/images/Screenshot 2025-10-16 164922.png"},
+        {"id":"ID 50","productName":"Sumo mint Sursuri green(510)","mrp":250,"discountPrice":150,"image":"/images/Screenshot 2025-10-16 165155.png"},
+        {"id":"ID 50","productName":"Audi mint Sursuri green(S15)","mrp":410,"discountPrice":246,"image":"/images/Gemini_Generated_Image_mz4atbmz4atbmz4a.png"},
+        {"id":"ID 51","productName":"Sumo Red Sursuri (510)","mrp":270,"discountPrice":162,"image":"/images/Screenshot 2025-10-16 165410.png"},
+        {"id":"ID 52","productName":"Benz Electric Sursuri (S12)","mrp":255,"discountPrice":153,"image":"/images/Screenshot 2025-10-16 165119.png"},
+        {"id":"ID 63","productName":"Audi Red Sursuri (S15)","mrp":550,"discountPrice":330,"image":"/images/Screenshot 2025-10-16 165456.png"},
+        {"id":"ID 64","productName":"Little Boss Electric Sursuri","mrp":170,"discountPrice":102,"image":"/images/Screenshot 2025-10-16 164825.png"},
+        {"id":"ID 65","productName":"Audi Electric Sursuri (S15)","mrp":410,"discountPrice":246,"image":"/images/Screenshot 2025-10-16 165019.png"},
+        {"id":"ID 27","productName":"Jil Jil Stars","mrp":900,"discountPrice":540,"image":"/images/Screenshot 2025-10-16 165531.png"}
+      ]
+    }
+  ]
+}
